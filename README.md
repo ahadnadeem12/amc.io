@@ -1,1 +1,1 @@
-# amc.io
+# hospital
